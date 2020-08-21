@@ -1,2 +1,2 @@
-# bullet-testing
-Tests bullets damage when crashed into a wall.
+# p5.play-boilerplate
+Boiler plate for p5.play
